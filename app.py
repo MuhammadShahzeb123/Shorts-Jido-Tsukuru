@@ -73,4 +73,4 @@ def process_video(video_path, min_scene_duration=10.0):
 
 # Example Usage
 video_path = input("Please enter the video path: ")
-process_video(video_path, min_scene_duration=20.0)
+process_video(video_path, min_scene_duration=30.0)
